@@ -1,3 +1,8 @@
+## 이분탐색
+- 24/01/24 BinarySearch 폰켓몬 <br>
+  https://school.programmers.co.kr/learn/courses/30/lessons/43238 <br>
+<br>
+
 ## 해시
 - 24/01/23 HashMap 폰켓몬 <br>
 https://school.programmers.co.kr/learn/courses/30/lessons/1845 <br>
