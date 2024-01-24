@@ -1,5 +1,5 @@
 ## 이분탐색
-- 24/01/24 BinarySearch 폰켓몬 <br>
+- 24/01/24 BinarySearch 입국심사 <br>
   https://school.programmers.co.kr/learn/courses/30/lessons/43238 <br>
 <br>
 
