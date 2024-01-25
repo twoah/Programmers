@@ -1,3 +1,8 @@
+## 스택&큐
+- 24/01/25 StackAndQueue 스택큐_같은 숫자는 싫어 <br>
+  https://school.programmers.co.kr/learn/courses/30/lessons/12906 <br>
+  <br>
+
 ## 이분탐색
 - 24/01/24 BinarySearch 입국심사 <br>
   https://school.programmers.co.kr/learn/courses/30/lessons/43238 <br>

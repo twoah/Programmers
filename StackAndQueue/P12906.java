@@ -8,7 +8,6 @@ public class P12906 {
         ArrayList<Integer> arrayList = new ArrayList<>();
         int cur = -1;
         for(int i=0;i<arr.length;i++){
-
             if(cur!=arr[i]){
                 arrayList.add(arr[i]);
                 cur = arr[i];
