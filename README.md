@@ -1,5 +1,5 @@
 ## Greedy
-- 24/01/31 Greedy 금고털이 <br>
+- 24/01/31 Greedy 금고털이 <br>
   https://softeer.ai/practice/6288<br>
 <br>
 
