@@ -1,7 +1,12 @@
 ## DP
+- 24/01/31 DP 금고털이 <br>
+  https://softeer.ai/practice/6288<br>
+<br>
+
+## DP
 - 24/01/30 DP 징검다리 <br>
   https://softeer.ai/practice/6293<br>
-- <br>
+<br>
 ## 스택&큐
 
 - 24/01/25 StackAndQueue 스택큐_같은 숫자는 싫어 <br>
