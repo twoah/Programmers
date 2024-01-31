@@ -1,4 +1,9 @@
+## DP
+- 24/01/30 DP 징검다리 <br>
+  https://softeer.ai/practice/6293<br>
+- <br>
 ## 스택&큐
+
 - 24/01/25 StackAndQueue 스택큐_같은 숫자는 싫어 <br>
   https://school.programmers.co.kr/learn/courses/30/lessons/12906 <br>
   <br>
