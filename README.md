@@ -1,5 +1,5 @@
-## DP
-- 24/01/31 DP 금고털이 <br>
+## Greedy
+- 24/01/31 Greedy 금고털이 <br>
   https://softeer.ai/practice/6288<br>
 <br>
 
