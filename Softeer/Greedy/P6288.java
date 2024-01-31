@@ -3,6 +3,11 @@ package Softeer.Greedy;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
+/**
+ *
+ * 24.01.31 금고털이
+ *
+ */
 class Pair implements Comparable<Pair> {
     int weight;
     int price;
