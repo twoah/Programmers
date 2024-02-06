@@ -1,4 +1,9 @@
-## Greedy
+## 시뮬레이션 
+- 24/02/06 시뮬레이션 연탄의 크기 <br>
+  https://softeer.ai/practice/7628<br>
+  <br>
+
+- ## Greedy
 - 24/01/31 Greedy 금고털이 <br>
   https://softeer.ai/practice/6288<br>
 <br>
